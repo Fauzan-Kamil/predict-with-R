@@ -9,6 +9,10 @@ Prediksi Penyakit jantung : https://kamil-predict.shinyapps.io/predict-penyakitj
 ## Tampilan Prediksi
 ![Untitled](https://user-images.githubusercontent.com/73100062/176894153-98d04c97-e48e-4afb-8f19-597a76240b33.png)
 
+## Confusion Matrix and Statistics
+![image](https://user-images.githubusercontent.com/73100062/176904692-a185694a-44a3-4730-a603-722121a92880.png)
+
+
 ## Dataset
 Kaggle : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
